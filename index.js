@@ -52,7 +52,16 @@ $(document).ready(function(){
  })
 })
 
-
+$(document).ready(function(){
+  $("#congrats").hover(function(){
+    $("#done").fadeIn()
+  })
+})
+$(document).ready(function(){
+  $("#congrats").hover(function(){
+    $("#image").fadeIn()
+  })
+})
 
 
 

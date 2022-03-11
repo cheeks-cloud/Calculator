@@ -13,6 +13,17 @@ h1{
 button:hover,input:hover{
   border: 2px solid black;
 }
-/* #output{
+#congrats{
+  margin-top: 50px;
   border: 2px solid black;
-} */
+  width: 40%;
+  /* height: 60%; */
+  margin-left: 80px;
+}
+#congrats p{
+  text-align: center;
+  margin-top: 20px;
+}
+#congrats p,img{
+  display: none;
+}

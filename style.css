@@ -27,3 +27,22 @@ button:hover,input:hover{
 #congrats p,img{
   display: none;
 }
+.one{
+  border: 2px solid black;
+  padding: 60px;
+}
+.two{
+  margin-top: 10px;
+  padding: 60px;
+  border: 2px solid green;
+}
+.three{
+  margin-top: 10px;
+  padding: 60px;
+  border: 2px solid purple;
+}
+.four{
+  margin-top: 10px;
+  padding: 60px;
+  border: 2px solid blue;
+}
